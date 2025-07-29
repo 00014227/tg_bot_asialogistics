@@ -12,7 +12,7 @@ module.exports = (bot, userState) => {
       bot.sendMessage(chatId, t(langCode, 'open_calculator'), {
         reply_markup: {
           inline_keyboard: [
-            [{ text: t(langCode, 'open_calculator'), web_app: { url: 'https://coral-app-6u5nx.ondigitalocean.app/' } }]
+            [{ text: t(langCode, 'open_calculator'), web_app: { url: 'https://bot.transosiyo-express.uz/' } }]
           ]
         }
       });
@@ -22,7 +22,7 @@ module.exports = (bot, userState) => {
       bot.sendMessage(chatId, t(langCode, 'open_order'), {
         reply_markup: {
           inline_keyboard: [
-            [{ text: t(langCode, 'open_order'), web_app: { url: 'https://coral-app-6u5nx.ondigitalocean.app/order' } }]
+            [{ text: t(langCode, 'open_order'), web_app: { url: 'https://bot.transosiyo-express.uz/order' } }]
           ]
         }
       });
