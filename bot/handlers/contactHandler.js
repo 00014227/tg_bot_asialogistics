@@ -23,7 +23,7 @@ module.exports = (bot, userState) => {
                 keyboard: [
                     [t(langCode, 'menu_check_status')],
                     [t(langCode, 'menu_calculator'), t(langCode, 'menu_order')],
-                    [t(langCode, 'menu_info')]
+                    [t(langCode, 'menu_info'), t(langCode, 'menu_pickup_points')]
                 ],
                 resize_keyboard: true,
             },

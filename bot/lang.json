@@ -5,13 +5,14 @@
       "thank_you": "Спасибо! Выберите действие:",
       "check_status": "Введите номер заказа для проверки статуса:",
       "status_result": "Для отслеживания заказа №{orderId}, нажмите на ссылку ниже:",
-      "company_info": "TransAsia Express\n📞 Колл-центр: +998 78 555 4545\n🌐 Сайт: https://transosiyo-express.uz/\n✉️ Почта: info@example.com\n🏢 Адрес: Ташкент, 9-й пр-д Абдуллы Каххара 16А",
+      "company_info": "TRANSASIA EXPRESS\n📞 Колл-центр: +998 78 555 4545\n🌐 Сайт: https://transosiyo-express.uz/\n✉️ Почта: info@transosiyo-express.uz\n🏢 Адрес: Ташкент, 9-й пр-д Абдуллы Каххара 16А",
       "open_calculator": "Открыть калькулятора",
       "open_order": "Открыть заявки",
       "menu_check_status": "Проверить статус заказа",
       "menu_calculator": "💰 Калькулятор",
       "menu_order": "📝 Оформить заявку",
-      "menu_info": "ℹ️ Информация о компании"
+      "menu_info": "ℹ️ Информация о компании",
+      "menu_pickup_points": "📍 Адреса пункт выдач"
       
     },
     "uz": {
@@ -20,13 +21,15 @@
       "thank_you": "Rahmat! Amallarni tanlang:",
       "check_status": "Buyurtma holatini tekshirish uchun raqamni kiriting:",
       "status_result": "№{orderId} raqamli buyurtmani kuzatish uchun quyidagi havolani bosing:",
-      "company_info": "TransAsia Express\n📞 Call-center: +998 78 555 4545\n🌐 Sayt: https://transosiyo-express.uz/\n✉️ Email: info@example.com\n🏢 Manzil: Toshkent, 9-й пр-д Абдуллы Каххара 16А",
+      "company_info": "TRANSASIA EXPRESS\n📞 Call-center: +998 78 555 4545\n🌐 Sayt: https://transosiyo-express.uz/\n✉️ Email: info@transosiyo-express.uz\n🏢 Manzil: Toshkent, 9-й пр-д Абдуллы Каххара 16А",
       "open_calculator": "Mini ochish",
       "open_order": "buyurtma shaklini ochish",
       "menu_check_status": "Buyurtma holatini tekshirish",
       "menu_calculator": "💰 Kalkulyator",
       "menu_order": "📝 Buyurtma berish",
-      "menu_info": "ℹ️ Kompaniya haqida"
+      "menu_info": "ℹ️ Kompaniya haqida",
+      "menu_pickup_points": "📍 Qabul qilish punktlarining manzillari"
+
     }
   }
   

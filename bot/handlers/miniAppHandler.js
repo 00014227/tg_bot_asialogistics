@@ -19,10 +19,13 @@ module.exports = (bot, userState) => {
     }
 
     if (text === t(langCode, 'menu_order')) {
+      const phone = encodeURIComponent(userState[chatId]?.phone || '');
+      const url = `https://bot.transosiyo-express.uz/order`;
+      
       bot.sendMessage(chatId, t(langCode, 'open_order'), {
         reply_markup: {
           inline_keyboard: [
-            [{ text: t(langCode, 'open_order'), web_app: { url: 'https://bot.transosiyo-express.uz/order' } }]
+            [{ text: t(langCode, 'open_order'), web_app: {url} }]
           ]
         }
       });
